@@ -1,1 +1,2 @@
 # rock-paper-scissors
+This project was done by trofimovadd (https://github.com/trofimovadd) in order to practice HTML, CSS and JavaScript. The idea of the project belongs to The Odin Project (https://theodinproject.com) where I have studied Foundations Course and the Full Stack JavaScript path.
